@@ -44,7 +44,7 @@ Before running the client, make sure you have Python installed on your system.
 3. Run the client script:
 
    ```bash
-   python server.py
+   python client.py
 
 -----------------------------------
 
