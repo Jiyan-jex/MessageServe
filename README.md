@@ -46,6 +46,4 @@ Before running the client, make sure you have Python installed on your system.
    ```bash
    python client.py
 
------------------------------------
 
-Feel free to customize this README according to your project's specific needs. Providing clear usage instructions and details about the project will help others understand and use your Socket Server and Socket Client.
